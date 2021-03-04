@@ -1,0 +1,20 @@
+{
+  "name": "TAS Logbook",
+  "short_name": "TASLOGBOOK",
+  "description": "The Armor School Logbook",
+  "icons": [{
+    "src": "/assets/img/taslogbook-logo.png",
+    "type": "image/png",
+    "sizes": "180x180"
+  },
+    {
+      "src": "/assets/img/taslogbook-logo.png",
+      "type": "image/png",
+      "sizes": "214x214"
+    }],
+  "theme_color": "#2c0f94",
+  "background_color": "#2c0f94",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/"
+}
